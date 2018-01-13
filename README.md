@@ -1,2 +1,2 @@
-# Everlasting
+# Everlasting Memories Blog
 Crafting Blog
